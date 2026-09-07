@@ -27,7 +27,7 @@ This .sql file includes a list of 6 command lines of SQL queries to retrieve cer
 * The 5th query identifies which doctor has made the most prescriptions.
 * The 6th query lists all doctors at the hospital with biggest size (number of beds).
 
-## 2-3. ERD_assessment1.drawio.png
+## 2-3. ERD.png
 ### 2-3-1. Overview
 This png file contains a Entity Relationship Diagram of the 4 entities, showing the primary keys and foreign keys of each entity.
 
@@ -41,7 +41,7 @@ Execute the following code, which includes the name of this file, on your local 
 mysql -u username -p assessment1 < assessment1_database.sql
 ## 3-2. queries.sql
 Execute the SQL queries in the file and it will retrieve the certain information specified in the task.
-## 3-3. ERD_assessment1.drawio.png
+## 3-3. ERD.png
 You can refer to the ERD in this file to understand the structure of the database and the relationships between each table.
 
 # 4. AI usage declaration
